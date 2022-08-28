@@ -74,3 +74,4 @@ The author of this development **Shadow**: [maximalisimus](https://github.com/ma
 Author's name: **maximalisimus**: [E-Mail](mailto:maximalis171091@yandex.ru).
 
 Date of creation: **23.08.2022**
+
